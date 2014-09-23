@@ -1,2 +1,17 @@
 mail
 ====
+no-reply
+servicecenter
+service
+notice
+notification
+noreply
+communications
+root
+accountverify
+sales
+zhaopin
+kefu
+postmaster
+newsletter
+info
