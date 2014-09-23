@@ -1,3 +1,9 @@
 https://github.com/tuhao/ifan/blob/7d4ac89ff3d79eddef3cdd0d87e51b99e5e0585a/src/com/boryou/action/email/JavaMail.java
 https://github.com/jhjguxin/bbtangcms/blob/4e3e9ef2d34d2c98ee9782a5225878cfe72a6f42/app/mailers/mmbk_user_mail.rb
 https://github.com/radishlee/CKreport/blob/a94d01237bbcaba536014dd7f7bf58472e7c1da8/CKreport/src/main/resources-deployed/emil.properties
+https://github.com/mxaGianluca/steiner_temp/blob/e81f022697141d04b6fe8402d104cf9833923b46/fuel/app/config/swift.php
+https://github.com/urgelacko/portal-engine/blob/c27437dd24b73e3f69fb348940463db5e498c01f/portal-engine-domain/portal-engine-domain-core/src/main/resources/dev-mail.properties
+https://github.com/lacyrhoades/loganbraun.com/blob/18847bf5d13088204dfa6ab8bf362bafd4a280f1/branches/2.0/apps/main/config/app.yml
+https://github.com/flowforever/avril.sample/blob/04a36b72d5dd0f86fef012748affb0c1539f5bcb/configs/app.json
+https://github.com/xm-king/htdocs/blob/65e6d5f8278069395451c4d0694c86066293bf1d/Webconfig/msgconfig.php
+https://github.com/xieming/python-practice/blob/39a449c764d38b2b263c573fc2feb2f2ad8e0220/PycharmProjects/mail/testmail.py
