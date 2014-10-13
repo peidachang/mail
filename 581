@@ -1,0 +1,8 @@
+https://github.com/cszwkyle/VIP_DEMO/blob/e301aba1ca7fc60054b3986c9f3429a0a78de8e7/src/com/bj58/poster/demo/email/old_compatible/SubmitEmail.java
+
+        String bizcode = "test";//业务代码
+
+        String password = "te~s&&^&t&(*)";//密码
+
+        String emailTo = "303079808@qq.com";//收件人邮箱
+        String emailFrom = "mailservice@58.com";//发件人邮箱
